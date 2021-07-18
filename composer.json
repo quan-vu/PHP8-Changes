@@ -1,0 +1,17 @@
+{
+    "name": "quanvu/8.0",
+    "authors": [
+        {
+            "name": "Brian",
+            "email": "huyquan.vu.1@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./src"
+        }
+    },
+    "require": {
+        "php": "^8.0"
+    }
+}
